@@ -66,7 +66,7 @@ export const marqueeImages: GalleryImage[] = [
 export const about = {
   heading: 'Xin chào, mình là Yến Hà',
   description:
-    'Mình là cô gái miền Tây, quê ở Đồng Tháp, hiện là sinh viên năm 3 ngành Công nghệ Thông tin, chuyên ngành Lập trình Web tại Trường Cao đẳng Kỹ thuật Cao Thắng. Mình mê thiết kế giao diện và phát triển website, luôn muốn học hỏi, trau dồi kỹ năng và đưa kiến thức vào những dự án thật. Mục tiêu của mình là trở thành một Web Developer chuyên nghiệp, làm ra những sản phẩm có giao diện đẹp, dễ dùng và mang lại trải nghiệm tốt cho người dùng.',
+    'Mình là Yến Hà, sinh ngày 09/01/2005, cô gái miền Tây quê ở Đồng Tháp, hiện là sinh viên năm 3 ngành Công nghệ Thông tin, chuyên ngành Lập trình Web tại Trường Cao đẳng Kỹ thuật Cao Thắng. Mình mê thiết kế giao diện và phát triển website, luôn muốn học hỏi, trau dồi kỹ năng và đưa kiến thức vào những dự án thật. Mục tiêu của mình là trở thành một Web Developer chuyên nghiệp, làm ra những sản phẩm có giao diện đẹp, dễ dùng và mang lại trải nghiệm tốt cho người dùng.',
   decor: {
     topLeft: { src: 'images/photo-03.jpg', alt: 'Ảnh polaroid Yến Hà giơ tay chữ V' },
     bottomLeft: { src: 'images/photo-02.jpg', alt: 'Ảnh polaroid Yến Hà chống cằm' },
