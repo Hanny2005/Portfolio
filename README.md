@@ -2,6 +2,7 @@
 
 React + TypeScript + Tailwind CSS v4 + Framer Motion + Lucide React, build bằng Vite.
 
+ Click vào đây để xem : https://hanny2005.github.io/Portfolio/
 ## Chạy
 ```bash
 pnpm install
